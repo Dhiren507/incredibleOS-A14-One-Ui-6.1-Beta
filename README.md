@@ -10,10 +10,8 @@ Samsung may have stopped updates for the Galaxy M30S, but **Incredible OS** keep
 
 ✨ **Incredible OS x DisturbedUI** ✨  
 📱 **Samsung Galaxy M30S**
-
-📱 Device Information​
+​
 ---
-
 ## 📦 Download
 IncredibleOS is now available for download! [Click Here](https://xdaforums.com/t/rom-14-one-ui-6-1-stable-incredible-os-v3-for-galaxy-m30s.4728388/) (Don't forget to hit the Thanks button on XDA!)
 

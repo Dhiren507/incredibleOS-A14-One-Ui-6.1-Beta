@@ -12,12 +12,6 @@ Samsung may have stopped updates for the Galaxy M30S, but **Incredible OS** keep
 📱 **Samsung Galaxy M30S**
 
 📱 Device Information​
-
-Device: Samsung Galaxy M30S (SM-M307F)
-ROM Version: Incredible OS (One UI 6.1)
-Android Version: 14
-Base Firmware: Galaxy M34
-Developer:@Dhiren9611
 ---
 
 ## 📦 Download

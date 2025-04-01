@@ -69,16 +69,16 @@ IncredibleOS is now available for download! [Click Here](https://xdaforums.com/t
 📽 **Screenshots:** [Click here for Some Spoilers](https://t.me/incredibleOSChat/1973)
 <table>
   <tr>
-    <td><img src="screenshots/photo_1_2025-01-19_16-00-23.jpg" alt="Screenshot 1" width="200"></td>
-    <td><img src="screenshots/photo_2_2025-01-19_16-00-23.jpg" alt="Screenshot 2" width="200"></td>
-    <td><img src="screenshots/photo_3_2025-01-19_16-00-23.jpg" alt="Screenshot 3" width="200"></td>
-    <td><img src="screenshots/photo_4_2025-01-19_16-00-23.jpg" alt="Screenshot 4" width="200"></td>
+    <td><img src="screenshots/1.2.jpg" alt="Screenshot 1" width="200"></td>
+    <td><img src="screenshots/1.3.jpg" alt="Screenshot 2" width="200"></td>
+    <td><img src="screenshots/1.1.jpg" alt="Screenshot 3" width="200"></td>
+    <td><img src="screenshots/1.4.jpg" alt="Screenshot 4" width="200"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/photo_5_2025-01-19_16-00-23.jpg" alt="Screenshot 5" width="200"></td>
-    <td><img src="screenshots/photo_6_2025-01-19_16-00-23.jpg" alt="Screenshot 6" width="200"></td>
-    <td><img src="screenshots/photo_7_2025-01-19_16-00-23.jpg" alt="Screenshot 7" width="200"></td>
-    <td><img src="screenshots/photo_8_2025-01-19_16-00-23.jpg" alt="Screenshot 8" width="200"></td>
+    <td><img src="screenshots/1.5.jpg" alt="Screenshot 5" width="200"></td>
+    <td><img src="screenshots/1.6.jpg" alt="Screenshot 6" width="200"></td>
+    <td><img src="screenshots/1.7.jpg" alt="Screenshot 7" width="200"></td>
+    <td><img src="screenshots/1.8.jpg" alt="Screenshot 8" width="200"></td>
   </tr>
 </table>
 

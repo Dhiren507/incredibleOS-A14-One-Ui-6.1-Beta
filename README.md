@@ -51,7 +51,7 @@ IncredibleOS is now available for download! [Click Here](https://xdaforums.com/t
 
 ## 📱 Device Compatibility
 - **Supported Device:** Samsung Galaxy M30S (**SM-M307F**)
-- **Base Vendor:** Samsung Galaxy M34 (**VNDK32**)
+- **Base Vendor:** Samsung Galaxy A51 (**VNDK31**)
 - **Stock Vendor:** Samsung Galaxy M30S (**VNDK30**)
 
 ---

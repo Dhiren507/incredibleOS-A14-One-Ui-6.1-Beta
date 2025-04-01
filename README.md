@@ -1,7 +1,7 @@
 # Incredible OS - Android 14 (One UI 6.1) for Samsung Galaxy M30S
 
 <p align="center">
-  <img src="images/IncredibleOS_For_Galaxy_M30s_UI6.png" alt="Incredible OS Banner" width="1080px">
+  <img src="images/IncredibleOS_For_Galaxy_M30s_UI6.jpg" alt="Incredible OS Banner" width="1080px">
 </p>
 
 ## Overview

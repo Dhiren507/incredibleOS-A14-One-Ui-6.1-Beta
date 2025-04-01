@@ -14,7 +14,7 @@ Samsung may have stopped updates for the Galaxy M30S, but **Incredible OS** keep
 ---
 
 ## 📦 Download
-IncredibleOS is now available for download! [Click Here](https://xdaforums.com/t/rom-14-one-ui-6-1-stable-incredible-os-v2-for-galaxy-m30s.4725635/) (Don't forget to hit the Thanks button on XDA!)
+IncredibleOS is now available for download! [Click Here](https://xdaforums.com/t/rom-14-one-ui-6-1-stable-incredible-os-v3-for-galaxy-m30s.4728388/) (Don't forget to hit the Thanks button on XDA!)
 
 ---
 
@@ -58,8 +58,8 @@ IncredibleOS is now available for download! [Click Here](https://xdaforums.com/t
 ---
 
 ## 📓 Flashing Guide
-👨🏻‍💻 **XDA Thread:** [Click Here](https://xdaforums.com/t/rom-14-one-ui-6-1-stable-incredible-os-v2-for-galaxy-m30s.4725635/)  
-📽 **Screenshots:** [Click here for Some Spoilers](https://t.me/incredibleOSChat/12)
+👨🏻‍💻 **XDA Thread:** [Click Here](https://xdaforums.com/t/rom-14-one-ui-6-1-stable-incredible-os-v3-for-galaxy-m30s.4728388/)  
+📽 **Screenshots:** [Click here for Some Spoilers](https://t.me/incredibleOSChat/1973)
 
 ### Prerequisites
 - **Unlocked Bootloader Required** – Make sure your bootloader is unlocked.

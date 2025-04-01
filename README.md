@@ -22,6 +22,7 @@ IncredibleOS is now available for download! [Click Here](https://xdaforums.com/t
 - **One UI 6.1 Experience** – Enjoy a fully functional, smooth, and modern UI.
 - **Ported from Galaxy M34** – Seamless integration for better compatibility.
 - **All essential One UI 6.1 features** – The latest refinements and features from Samsung.
+- **Galaxy AI Features in Keyboard, Samsung Notes and in Broweser Apps**
 - **Enhanced Performance & Battery Life** – Optimized system resources for better efficiency.
 - **Updated UI Animations & Transitions** – Smoother, faster, and more responsive.
 - **Lock Screen Customization** – Modify clock styles, notification layouts, and shortcuts.
@@ -79,12 +80,14 @@ IncredibleOS is now available for download! [Click Here](https://xdaforums.com/t
 - **@Dhiren9611 (Me!)** for porting One UI 6.1 to the M30S and keeping this device alive.
 - **@TenSeventy7** for Fresh Services and Mint Kernel.
 - **@sundram21** for Mint Kernel for M30S.
+- **disturb33d** for the Base, Thanks!!
 
 ---
 
 ## 📢 Community & Support
 📢 **Update Channel:** [incredibleOSUpdates](https://t.me/incredibleOSUpdates)  
 💬 **Support Group:** [incredibleOSChat](https://t.me/incredibleOSChat)  
+💬 **DisturbedUI Support Group:** [DisturbedUI](https://t.me/disturbedui)  
 
 ---
 
